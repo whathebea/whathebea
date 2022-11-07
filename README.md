@@ -80,4 +80,7 @@
 
 
 ## Github Stats  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whathebea&hide=css,html)](https://github.com/anuraghazra/github-readme-stats)
+
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whathebea&hide=css,html" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=default#gh-light-mode-only" />
+
