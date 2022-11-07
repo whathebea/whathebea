@@ -82,5 +82,5 @@
 ## Github Stats  
 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whathebea&hide=css,html" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=default#gh-light-mode-only" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=whathebea&show_icons=true&theme=default#gh-light-mode-only" />
 
